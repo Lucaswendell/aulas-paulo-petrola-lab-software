@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/home/wendel/Documentos/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3613715560.index
+392070600.index
+247600473.index
+3434771125.index
+3740522778.index
+696770649.index
+3685763950.index
+1037056880.index

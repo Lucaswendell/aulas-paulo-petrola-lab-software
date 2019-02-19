@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<%-- Codigos jsp
+	<% %> -> delimitador de script
+	<%= %> -> delimitador de expressao. Sempre de saida
+	
+ --%>
+<meta charset="UTF-8">
+<title>JSP</title>
+</head>
+<body>
+<%
+	String lais = "Lais I love you";
+	out.print("<h3>"+lais+"</h3>");
+%>
+</body>
+</html>

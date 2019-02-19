@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+/usr/local/tomcat/webapps/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2224456763.index
+/ROOT/src
+/home/wendel/Documentos/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2224456763.index
+/ROOT/src
+/home/wendel/Documentos/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1288335963.index
+/aula_18_02_2019/src
+/usr/local/tomcat/webapps/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3348879237.index
+/java_web/src
+/home/wendel/Documentos/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3348879237.index
+/java_web/src

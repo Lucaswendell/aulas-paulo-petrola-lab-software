@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;aula_18_02_2019/WebContent/atividade_pratica.txt&apos; to &apos;atividade_pratica_requisitos.txt&apos;" description="Rename resource &apos;atividade_pratica.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/atividade_pratica.txt" name="atividade_pratica_requisitos.txt" stamp="1550517125929" updateReferences="true"/>
+</session>

@@ -1,0 +1,9 @@
+package modelo;
+
+public abstract class Produto {
+	private String nome;
+	private Double valor;
+	private String categoria;
+	private String descricao;
+	
+}
