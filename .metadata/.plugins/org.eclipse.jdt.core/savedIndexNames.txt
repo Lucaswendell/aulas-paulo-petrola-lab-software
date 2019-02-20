@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+/home/wendel/Documentos/aulas-laboratório-de-software/.metadata/.plugins/org.eclipse.jdt.core
-2170120700.index
-3613715560.index
-247600473.index
-392070600.index

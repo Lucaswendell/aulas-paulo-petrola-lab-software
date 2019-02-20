@@ -1,9 +1,0 @@
-package modelo;
-
-import java.util.Date;
-public final class comentario {
-	private Usuario usu = new Usuario();
-	private Produto prod = new Produto();
-	private String Comentario; 
-	private Date dat = new Date();
-}

@@ -1,8 +1,0 @@
-package modelo;
-
-public class abstract Produto {
-	private String nome;
-	private Double valor;
-	private String categoria;
-	private 
-}
